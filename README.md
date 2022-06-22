@@ -19,7 +19,7 @@ I am an aspiring software developer and graduate from Makers Academy coding boot
 
 
 - 🔭 I’m currently working on [Algorithmic Complexity](https://github.com/jmcnally17/algorithmic-complexity) project
-- 🌱 I’m currently learning Algorithmics
+- 🌱 I’m currently learning Algorithms
 - 😄 Pronouns: He/Him
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
