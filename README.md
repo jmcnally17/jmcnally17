@@ -18,7 +18,7 @@
 I am an aspiring developer and graduate from Makers Academy coding bootcamp. I have an MSci Astriphysics degree from Queen Mary University of London with first class honours. I have a huge love of coding, always eager to learn more. In my spare time you'll usually find me exercising (namely rock climbing and running), gaming or meeting with my friends for a good evening at the pub.
 
 
-- 🔭 I’m currently working on [Tic-Tac-Toe](https://github.com/jmcnally17/tic-tac-toe) in C++
+<!-- - 🔭 I’m currently working on [Tic-Tac-Toe](https://github.com/jmcnally17/tic-tac-toe) in C++ -->
 <!-- - 🌱 I’m currently learning Algorithms -->
 - 😄 Pronouns: He/Him
 <!-- - 👯 I’m looking to collaborate on ...
@@ -35,6 +35,7 @@ I am an aspiring developer and graduate from Makers Academy coding bootcamp. I h
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 
 ### Databases
 
@@ -49,3 +50,11 @@ I am an aspiring developer and graduate from Makers Academy coding bootcamp. I h
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Sequelize](https://img.shields.io/static/v1?style=for-the-badge&message=Sequelize&color=222222&logo=Sequelize&logoColor=52B0E7&label=)
+![Ruby Sinatra](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+Sinatra&color=000000&logo=Ruby+Sinatra&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
+![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
+![Handlebars.js](https://img.shields.io/static/v1?style=for-the-badge&message=Handlebars.js&color=000000&logo=Handlebars.js&logoColor=FFFFFF&label=)
+![Nodemon](https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=222222&logo=Nodemon&logoColor=76D04B&label=)
