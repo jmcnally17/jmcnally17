@@ -58,3 +58,4 @@ I am an aspiring developer and graduate from Makers Academy coding bootcamp. I h
 ![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
 ![Handlebars.js](https://img.shields.io/static/v1?style=for-the-badge&message=Handlebars.js&color=000000&logo=Handlebars.js&logoColor=FFFFFF&label=)
 ![Nodemon](https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=222222&logo=Nodemon&logoColor=76D04B&label=)
+![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=222222&logo=Render&logoColor=46E3B7&label=)
