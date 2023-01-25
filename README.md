@@ -18,7 +18,7 @@
 I am an aspiring developer and graduate from Makers Academy coding bootcamp. I have an MSci Astriphysics degree from Queen Mary University of London with first class honours. I have a huge love of coding, always eager to learn more. In my spare time you'll usually find me exercising (namely rock climbing and running), gaming or meeting with my friends for a good evening at the pub.
 
 
-- 🔭 I’m currently working on [graphics](https://github.com/jmcnally17/graphics) in C++
+- 🔭 I’m currently working on [animations](https://github.com/jmcnally17/animations) in C++
 <!-- - 🌱 I’m currently learning Algorithms -->
 - 😄 Pronouns: He/Him
 <!-- - 👯 I’m looking to collaborate on ...
