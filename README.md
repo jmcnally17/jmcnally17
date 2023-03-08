@@ -9,9 +9,9 @@
   </a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/jmcnally17/CV">GitHub CV</a>
-</div>
+</div> -->
   
 <br>
 
