@@ -20,7 +20,7 @@ Graduate Game Server Developer at [Frontier Developments](https://www.frontier.c
 I am a graduate from Makers Academy coding bootcamp. I have an MSci Astriphysics degree from Queen Mary University of London with first class honours. I have a huge love of coding, always eager to learn more. In my spare time you'll usually find me exercising (namely rock climbing and running), gaming or meeting with my friends for a good evening at the pub.
 
 
-<!-- - 🔭 I’m currently working on [Space Invaders](https://github.com/jmcnally17/metroid-invaders) in C++ -->
+- 🔭 I’m currently working on [tic-tac-toe](https://github.com/jmcnally17/tictactoe-php) in PHP
 <!-- - 🌱 I’m currently learning Algorithms -->
 - Pronouns: He/Him
 <!-- - 👯 I’m looking to collaborate on ...
