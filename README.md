@@ -17,7 +17,7 @@
 
 Graduate Game Server Developer at [Frontier Developments](https://www.frontier.co.uk/)
 
-I am a graduate from [Makers Academy](https://makers.tech/) coding bootcamp. I have an MSci Astrophysics degree from [Queen Mary University of London](https://www.qmul.ac.uk/) with first class honours. I have a huge love of coding, always eager to learn more. In my spare time you'll usually find me exercising (namely rock climbing and running), gaming or meeting with my friends for a good evening at the pub.
+Graduate from [Makers Academy](https://makers.tech/) coding bootcamp and [Queen Mary University of London](https://www.qmul.ac.uk/) with an MSci Astrophysics degree with first class honours.
 
 
 <!-- - 🔭 I’m currently working on [tic-tac-toe](https://github.com/jmcnally17/tictactoe-php) in PHP -->
