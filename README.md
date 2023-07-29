@@ -17,7 +17,7 @@
 
 Graduate Game Server Developer at [Frontier Developments](https://www.frontier.co.uk/)
 
-Graduate from [Makers Academy](https://makers.tech/) coding bootcamp and [Queen Mary University of London](https://www.qmul.ac.uk/) with an MSci Astrophysics degree with first class honours.
+Graduate from [Queen Mary University of London](https://www.qmul.ac.uk/) with an MSci Astrophysics degree with first class honours and [Makers Academy](https://makers.tech/) coding bootcamp.
 
 
 <!-- - 🔭 I’m currently working on [tic-tac-toe](https://github.com/jmcnally17/tictactoe-php) in PHP -->
@@ -36,6 +36,7 @@ Graduate from [Makers Academy](https://makers.tech/) coding bootcamp and [Queen 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -44,6 +45,7 @@ Graduate from [Makers Academy](https://makers.tech/) coding bootcamp and [Queen 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 
 ### Frameworks, Platforms and Libraries
 
@@ -64,3 +66,4 @@ Graduate from [Makers Academy](https://makers.tech/) coding bootcamp and [Queen 
 ![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=222222&logo=Render&logoColor=46E3B7&label=)
 ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
 ![SFML](https://img.shields.io/static/v1?style=for-the-badge&message=SFML&color=222222&logo=SFML&logoColor=8CC445&label=)
+![Symfony](https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF&label=)
