@@ -15,7 +15,7 @@
   
 <br>
 
-Graduate Game Server Developer at [Frontier Developments](https://www.frontier.co.uk/)
+Full Game Server Developer at [Frontier Developments](https://www.frontier.co.uk/)
 
 Graduate from [Queen Mary University of London](https://www.qmul.ac.uk/) with an MSci Astrophysics degree with first class honours and [Makers Academy](https://makers.tech/) coding bootcamp.
 
